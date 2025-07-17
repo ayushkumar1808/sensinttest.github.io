@@ -99,7 +99,14 @@ people:
     category_id: alumni
     url:   https://www.linkedin.com/in/johanna-didion/
     image: uploads/people/johanna.jpg
-    
+  
+  - id: wanhuili
+    name: "Wanhui Li
+    role: "Visiting PhD Student"
+    category_id: alumni
+    url: https://wanhuili.github.io  
+    #image:
+ 
   - id: s_mavali
     name: "Sina Mavali"
     role: "Intern"
@@ -111,7 +118,14 @@ people:
     role: "Research Assistant"
     category_id: all
     url:   www.linkedin.com/in/ayush-k-b91212204
-    image: https://drive.google.com/file/d/1ppOvXTi_gFE-2-KFyJReJTiDAVuHNv3s/view?usp=sharing
+    #image: 
+  - id: reshma_daniel
+    name: "Reshma Daniel"
+    role: "Research Assistant"
+    category_id: all
+    url: https://www.linkedin.com/in/reshma-daniel-352ab5193 
+    #image: 
+  
   - id: g_vega
     name: "Gabriela Vega"
     role: "Research Assistant"
