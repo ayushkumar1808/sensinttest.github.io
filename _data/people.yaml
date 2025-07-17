@@ -114,6 +114,22 @@ people:
     url:   https://x.com/gavyvy_
     image: uploads/people/gaby.jpg
 
+  - id: ayush
+    name: "Ayush Kumar"
+    role: "Research Assistant"
+    category_id: all
+    #url:
+    #image: 
+
+   - id: reshma_daniel
+    name: "Reshma Daniel"
+    role: "Research Assistant"
+    category_id: all
+    url: https://www.linkedin.com/in/reshma-daniel-352ab5193
+    #image: 
+
+
+    
   - id: erik
     name: "Erik Peralta Løvaas"
     role: "MSc Student + Research Assistant"
